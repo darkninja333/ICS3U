@@ -564,7 +564,6 @@ public class park {
 					if (slide.equalsIgnoreCase("left"))
 
 					{
-
 						c.println("you get to the bottom of the slide, but your friend is no-where to be found");
 
 						c.println(
@@ -626,7 +625,7 @@ public class park {
 						else
 
 						{
-
+							
 							c.println("Just as she takes off you notice your phone is on the ground.");
 
 							c.println("You take it and feel upset so you go home.");
